@@ -1,0 +1,692 @@
+2019-10-15 09:56:53.735 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 9356 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 09:56:53.744 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 09:56:54.897 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 09:56:55.102 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 180ms. Found 15 repository interfaces.
+2019-10-15 09:56:55.590 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$db0c1ff5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 09:56:56.132 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 09:56:56.178 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 09:56:56.190 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 09:56:56.190 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 09:56:56.386 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 09:56:56.386 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2487 ms
+2019-10-15 09:56:56.568 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 09:56:56.613 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 10:09:38.457 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 35556 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 10:09:38.465 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 10:09:39.933 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 10:09:40.097 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 153ms. Found 15 repository interfaces.
+2019-10-15 10:09:40.589 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$668ee755] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 10:09:40.965 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 10:09:40.983 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 10:09:40.992 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 10:09:40.992 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 10:09:41.178 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 10:09:41.179 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2589 ms
+2019-10-15 10:09:41.283 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 10:09:41.306 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 10:17:41.394 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 38284 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 10:17:41.410 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 10:17:43.240 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 10:17:43.411 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 156ms. Found 15 repository interfaces.
+2019-10-15 10:17:43.875 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dd2c28d3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 10:17:44.248 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 10:17:44.272 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 10:17:44.290 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 10:17:44.290 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 10:17:44.508 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 10:17:44.508 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2905 ms
+2019-10-15 10:17:44.640 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 10:17:44.656 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 10:18:07.568 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 17912 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 10:18:07.581 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 10:18:09.088 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 10:18:09.242 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 143ms. Found 15 repository interfaces.
+2019-10-15 10:18:09.693 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bd2feb67] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 10:18:10.044 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 10:18:10.060 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 10:18:10.073 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 10:18:10.074 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 10:18:10.241 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 10:18:10.242 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2536 ms
+2019-10-15 10:18:10.364 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 10:18:10.382 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 10:37:03.331 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 11564 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 10:37:03.338 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 10:37:04.856 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 10:37:05.016 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 145ms. Found 15 repository interfaces.
+2019-10-15 10:37:05.471 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fdce8155] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 10:37:05.847 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 10:37:05.866 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 10:37:05.877 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 10:37:05.878 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 10:37:06.070 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 10:37:06.070 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2519 ms
+2019-10-15 10:37:06.281 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 10:37:12.315 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 10:37:12.456 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 10:37:12.459 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 10:37:12.807 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 10:37:13.093 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 10:37:18.131 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 10:37:18.160 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 10:38:32.423 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 19404 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 10:38:32.440 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 10:38:33.603 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 10:38:33.747 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 134ms. Found 15 repository interfaces.
+2019-10-15 10:38:34.174 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1024bedf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 10:38:34.528 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 10:38:34.545 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 10:38:34.555 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 10:38:34.555 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 10:38:34.772 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 10:38:34.773 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2165 ms
+2019-10-15 10:38:35.020 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 10:38:40.404 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 10:38:40.601 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 10:38:40.604 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 10:38:40.833 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 10:38:41.063 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 10:38:46.118 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 10:38:46.132 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:08:03.539 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 23780 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:08:03.542 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:08:04.948 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:08:05.232 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 271ms. Found 15 repository interfaces.
+2019-10-15 11:08:06.041 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$80b6f938] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:08:06.667 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:08:06.687 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:08:06.701 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:08:06.701 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:08:06.876 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:08:06.877 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3269 ms
+2019-10-15 11:08:07.056 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:08:12.271 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:08:12.538 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:08:12.544 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:08:12.732 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:08:12.886 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:08:17.923 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:08:17.941 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:09:53.965 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 26456 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:09:53.969 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:09:55.372 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:09:55.589 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 203ms. Found 15 repository interfaces.
+2019-10-15 11:09:56.130 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6bed340e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:09:56.869 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:09:56.915 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:09:56.941 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:09:56.942 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:09:57.170 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:09:57.171 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3101 ms
+2019-10-15 11:09:57.457 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:10:02.931 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:10:03.012 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:10:03.014 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:10:03.330 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:10:03.499 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:10:08.549 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:10:08.569 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:11:38.808 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 28144 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:11:38.818 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:11:40.259 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:11:40.395 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 124ms. Found 15 repository interfaces.
+2019-10-15 11:11:40.807 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ba04efd4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:11:41.140 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:11:41.160 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:11:41.170 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:11:41.171 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:11:41.367 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:11:41.368 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2444 ms
+2019-10-15 11:11:41.546 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:11:46.880 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:11:46.971 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:11:46.973 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:11:47.276 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:11:47.526 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:11:52.566 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:11:52.579 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:35:17.068 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 38568 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:35:17.077 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:35:18.298 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:35:18.447 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 138ms. Found 15 repository interfaces.
+2019-10-15 11:35:18.922 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$69684147] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:35:19.457 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:35:19.497 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:35:19.545 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:35:19.546 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:35:19.955 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:35:19.956 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2768 ms
+2019-10-15 11:35:20.195 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:35:20.300 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:35:20.431 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:35:20.687 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:35:20.942 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:35:26.143 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 11:35:26.174 logback [main] INFO  o.h.e.j.e.i.LobCreatorBuilderImpl - HHH000422: Disabling contextual LOB creation as connection was null
+2019-10-15 11:35:26.703 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:35:31.785 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:35:31.798 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:36:02.078 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 17964 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:36:02.083 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:36:03.064 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:36:03.202 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 127ms. Found 15 repository interfaces.
+2019-10-15 11:36:03.609 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bce2b21d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:36:03.955 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:36:03.978 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:36:03.989 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:36:03.989 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:36:04.264 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:36:04.265 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2007 ms
+2019-10-15 11:36:04.758 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:36:04.979 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:36:04.983 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:36:05.154 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:36:05.342 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:36:10.529 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 11:36:10.561 logback [main] INFO  o.h.e.j.e.i.LobCreatorBuilderImpl - HHH000422: Disabling contextual LOB creation as connection was null
+2019-10-15 11:36:10.811 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:36:15.846 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:36:15.866 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:36:26.716 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 7868 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:36:26.734 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:36:28.403 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:36:28.557 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 144ms. Found 15 repository interfaces.
+2019-10-15 11:36:29.173 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e50316e2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:36:29.648 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:36:29.665 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:36:29.677 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:36:29.677 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:36:29.864 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:36:29.871 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2954 ms
+2019-10-15 11:36:30.277 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:36:30.501 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:36:30.503 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:36:30.675 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:36:30.876 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:36:36.059 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 11:36:36.083 logback [main] INFO  o.h.e.j.e.i.LobCreatorBuilderImpl - HHH000422: Disabling contextual LOB creation as connection was null
+2019-10-15 11:36:36.306 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:36:41.341 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:36:41.358 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:36:59.105 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 36620 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:36:59.109 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:37:00.730 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:37:00.937 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 190ms. Found 15 repository interfaces.
+2019-10-15 11:37:02.110 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2b29c1ec] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:37:02.601 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:37:02.627 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:37:02.644 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:37:02.645 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:37:02.886 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:37:02.887 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3666 ms
+2019-10-15 11:37:03.157 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:37:03.409 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:37:03.411 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:37:03.632 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:37:03.848 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:37:09.051 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 11:37:09.083 logback [main] INFO  o.h.e.j.e.i.LobCreatorBuilderImpl - HHH000422: Disabling contextual LOB creation as connection was null
+2019-10-15 11:37:09.401 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:37:14.448 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:37:14.467 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:37:55.132 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 10360 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:37:55.139 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:37:56.602 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:37:56.859 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 245ms. Found 15 repository interfaces.
+2019-10-15 11:37:57.593 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8fe6bef4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:37:57.930 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:37:57.949 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:37:57.959 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:37:57.959 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:37:58.129 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:37:58.129 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2741 ms
+2019-10-15 11:37:58.422 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:37:58.612 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:37:58.614 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:37:58.798 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:37:58.982 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:38:04.185 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 11:38:04.214 logback [main] INFO  o.h.e.j.e.i.LobCreatorBuilderImpl - HHH000422: Disabling contextual LOB creation as connection was null
+2019-10-15 11:38:04.436 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - root - Starting...
+2019-10-15 11:40:41.602 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 23996 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:40:41.644 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:40:43.285 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:40:43.446 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 150ms. Found 15 repository interfaces.
+2019-10-15 11:40:43.896 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4790bffd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:40:44.386 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:40:44.408 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:40:44.420 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:40:44.420 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:40:44.613 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:40:44.614 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2813 ms
+2019-10-15 11:40:44.875 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:40:44.967 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:40:44.969 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:40:45.285 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:40:45.474 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 11:40:45.657 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 11:40:45.670 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 11:40:45.968 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 11:40:46.237 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 11:40:46.241 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 11:40:46.253 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 11:40:46.255 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:40:46.268 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 11:42:00.864 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 32632 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 11:42:00.873 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 11:42:02.904 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 11:42:03.062 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 145ms. Found 15 repository interfaces.
+2019-10-15 11:42:03.592 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6325271] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 11:42:03.965 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 11:42:04.014 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 11:42:04.037 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 11:42:04.037 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 11:42:04.317 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 11:42:04.317 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3153 ms
+2019-10-15 11:42:04.596 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 11:42:04.830 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 11:42:04.835 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 11:42:05.011 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 11:42:05.189 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 11:42:05.349 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 11:42:05.363 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 11:42:05.669 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 11:42:05.901 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 11:42:05.905 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 11:42:05.915 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 11:42:05.918 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 11:42:05.929 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 14:04:00.080 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 32588 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:04:00.090 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:04:01.663 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:04:01.808 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 130ms. Found 15 repository interfaces.
+2019-10-15 14:04:02.383 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ccd750ac] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:04:02.737 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:04:02.757 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:04:02.768 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:04:02.768 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:04:02.933 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:04:02.933 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2634 ms
+2019-10-15 14:04:03.169 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:04:03.252 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:04:03.253 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:04:03.618 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:04:03.814 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:04:03.993 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:04:04.005 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:04:04.283 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:04:04.482 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:04:04.486 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:04:04.498 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:04:04.500 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 14:04:04.512 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 14:04:40.173 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 42492 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:04:40.187 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:04:41.470 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:04:41.636 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 150ms. Found 15 repository interfaces.
+2019-10-15 14:04:42.895 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$21779661] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:04:43.403 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:04:43.435 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:04:43.455 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:04:43.457 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:04:43.724 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:04:43.724 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3288 ms
+2019-10-15 14:04:44.045 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:04:44.274 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:04:44.278 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:04:44.546 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:04:44.719 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:04:44.879 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:04:44.893 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:04:45.210 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:04:45.446 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:04:45.450 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:04:45.459 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:04:45.461 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 14:04:45.484 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 14:06:44.746 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 26716 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:06:44.751 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:06:45.896 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:06:46.030 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 121ms. Found 15 repository interfaces.
+2019-10-15 14:06:46.823 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ac4dad47] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:06:47.441 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:06:47.459 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:06:47.470 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:06:47.471 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:06:47.643 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:06:47.644 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2613 ms
+2019-10-15 14:06:47.903 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:06:48.123 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:06:48.125 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:06:48.389 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:06:48.693 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:06:48.895 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:06:48.914 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:06:49.167 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:06:49.178 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:06:49.183 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 14:06:49.202 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 14:08:01.846 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 20468 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:08:01.856 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:08:03.335 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:08:03.510 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 158ms. Found 15 repository interfaces.
+2019-10-15 14:08:04.467 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fdce8155] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:08:04.827 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:08:04.843 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:08:04.854 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:08:04.855 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:08:05.052 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:08:05.053 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3029 ms
+2019-10-15 14:08:05.323 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:08:05.515 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:08:05.516 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:08:05.721 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:08:05.901 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:08:06.061 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:08:06.077 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:08:06.336 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:08:06.347 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:08:06.353 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 14:08:06.373 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 14:12:59.804 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 42028 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:12:59.844 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:13:01.047 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:13:01.252 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 190ms. Found 15 repository interfaces.
+2019-10-15 14:13:01.909 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$623fab18] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:13:02.336 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:13:02.361 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:13:02.375 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:13:02.376 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:13:02.618 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:13:02.618 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2505 ms
+2019-10-15 14:13:02.901 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:13:03.119 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:13:03.121 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:13:03.345 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:13:03.574 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:13:03.772 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:13:03.791 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:13:04.819 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:13:05.349 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:13:05.355 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:13:05.364 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:13:05.367 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 14:13:05.379 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 14:26:30.124 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 40532 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:26:30.129 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:26:31.842 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:26:32.213 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 327ms. Found 15 repository interfaces.
+2019-10-15 14:26:33.725 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6be9fc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:26:34.576 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:26:34.599 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:26:34.614 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:26:34.614 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:26:34.795 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:26:34.795 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4325 ms
+2019-10-15 14:26:35.034 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:26:35.249 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:26:35.252 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:26:35.453 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:26:35.642 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:26:35.804 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:26:35.820 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:26:36.725 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:26:37.170 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:26:37.174 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:26:37.186 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:26:37.189 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 14:26:37.208 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 14:28:20.695 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 35820 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:28:20.703 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:28:22.370 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:28:22.646 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 239ms. Found 15 repository interfaces.
+2019-10-15 14:28:23.220 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$400c8211] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:28:23.566 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:28:23.587 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:28:23.599 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:28:23.600 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:28:23.758 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:28:23.758 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2758 ms
+2019-10-15 14:28:23.985 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:28:24.171 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:28:24.172 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:28:24.358 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:28:24.545 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:28:24.713 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:28:24.731 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:28:26.025 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:28:27.076 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:28:27.429 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:28:27.479 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-10-15 14:28:27.482 logback [main] INFO  com.cn.person.blog.BlogApplication - Started BlogApplication in 7.937 seconds (JVM running for 10.048)
+2019-10-15 14:31:49.874 logback [Thread-10] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:31:49.880 logback [Thread-10] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:31:49.884 logback [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:31:49.894 logback [Thread-10] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:32:04.421 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 13820 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:32:04.426 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:32:05.764 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:32:05.922 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 145ms. Found 15 repository interfaces.
+2019-10-15 14:32:06.551 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5b32fec6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:32:06.894 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:32:06.911 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:32:06.923 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:32:06.923 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:32:07.096 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:32:07.096 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2426 ms
+2019-10-15 14:32:07.336 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:32:07.416 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:32:07.419 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:32:07.723 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:32:07.908 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:32:08.075 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:32:08.090 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:32:09.360 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:32:10.198 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:32:10.465 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:32:10.509 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-10-15 14:32:10.512 logback [main] INFO  com.cn.person.blog.BlogApplication - Started BlogApplication in 7.606 seconds (JVM running for 9.777)
+2019-10-15 14:38:56.359 logback [Thread-3] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:38:56.363 logback [Thread-3] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:38:56.366 logback [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:38:56.382 logback [Thread-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:39:13.184 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 26872 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:39:13.188 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:39:14.120 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:39:14.252 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 122ms. Found 15 repository interfaces.
+2019-10-15 14:39:14.825 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a8e34b5b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:39:15.149 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:39:15.167 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:39:15.178 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:39:15.179 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:39:15.349 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:39:15.349 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1975 ms
+2019-10-15 14:39:15.593 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:39:15.672 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:39:15.675 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:39:15.959 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:39:16.155 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:39:16.331 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:39:16.348 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:39:16.650 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:39:16.676 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:39:16.680 logback [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2019-10-15 14:39:16.694 logback [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-15 14:39:46.490 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 26976 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:39:46.500 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:39:47.810 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:39:47.945 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 123ms. Found 15 repository interfaces.
+2019-10-15 14:39:48.537 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$408dcbc9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:39:48.871 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:39:48.887 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:39:48.896 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:39:48.897 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:39:49.058 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:39:49.059 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2353 ms
+2019-10-15 14:39:49.290 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:39:49.479 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:39:49.481 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:39:49.693 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:39:49.904 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:39:50.091 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:39:50.106 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:39:51.272 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:39:52.236 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:39:52.556 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:39:52.602 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-10-15 14:39:52.605 logback [main] INFO  com.cn.person.blog.BlogApplication - Started BlogApplication in 7.32 seconds (JVM running for 9.429)
+2019-10-15 14:40:28.233 logback [Thread-11] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:40:28.239 logback [Thread-11] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:40:28.244 logback [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:40:28.259 logback [Thread-11] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:40:40.626 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 34312 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:40:40.630 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:40:41.788 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:40:41.929 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 127ms. Found 15 repository interfaces.
+2019-10-15 14:40:42.512 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1277c712] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:40:42.849 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:40:42.867 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:40:42.878 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:40:42.878 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:40:43.035 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:40:43.036 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2147 ms
+2019-10-15 14:40:43.325 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:40:43.636 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:40:43.639 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:40:44.073 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:40:44.268 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:40:44.442 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:40:44.456 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:40:45.704 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:40:46.514 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:40:46.788 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:40:46.835 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-10-15 14:40:46.837 logback [main] INFO  com.cn.person.blog.BlogApplication - Started BlogApplication in 7.269 seconds (JVM running for 9.879)
+2019-10-15 14:45:12.078 logback [Thread-14] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:45:12.082 logback [Thread-14] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:45:12.090 logback [Thread-14] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 14:45:12.124 logback [Thread-14] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-10-15 14:45:43.955 logback [main] INFO  com.cn.person.blog.BlogApplication - Starting BlogApplication on DESKTOP-0ID1FIS with PID 7804 (E:\ideaProjects\project-blog\target\classes started by 11402 in E:\ideaProjects\project-blog)
+2019-10-15 14:45:43.960 logback [main] INFO  com.cn.person.blog.BlogApplication - No active profile set, falling back to default profiles: default
+2019-10-15 14:45:44.956 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-15 14:45:45.136 logback [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 162ms. Found 15 repository interfaces.
+2019-10-15 14:45:45.787 logback [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$33ca8a48] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-10-15 14:45:46.141 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2019-10-15 14:45:46.161 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:45:46.172 logback [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-15 14:45:46.172 logback [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-10-15 14:45:46.352 logback [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-15 14:45:46.353 logback [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2303 ms
+2019-10-15 14:45:46.601 logback [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-15 14:45:46.794 logback [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.3.11.Final}
+2019-10-15 14:45:46.796 logback [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2019-10-15 14:45:46.977 logback [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-15 14:45:47.159 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-10-15 14:45:47.330 logback [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-10-15 14:45:47.346 logback [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-15 14:45:48.910 logback [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 14:45:49.732 logback [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-15 14:45:49.985 logback [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2019-10-15 14:45:50.028 logback [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2019-10-15 14:45:50.057 logback [main] INFO  com.cn.person.blog.BlogApplication - Started BlogApplication in 7.353 seconds (JVM running for 9.787)
+2019-10-15 14:46:17.743 logback [http-nio-8888-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-15 14:46:17.743 logback [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-10-15 14:46:17.756 logback [http-nio-8888-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2019-10-15 14:46:17.798 logback [http-nio-8888-exec-1] INFO  c.c.p.b.controller.HelloController - info
+2019-10-15 14:46:58.994 logback [http-nio-8888-exec-4] INFO  c.c.p.b.controller.HelloController - info
+2019-10-15 15:01:13.674 logback [Thread-13] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-15 15:01:13.681 logback [Thread-13] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-15 15:01:13.688 logback [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-10-15 15:01:13.711 logback [Thread-13] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
